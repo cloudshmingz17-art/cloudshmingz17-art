@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Hmingz — Full-stack developer. Practical systems, thoughtful interfaces.">
+<rect width="1280" height="400" fill="#111816"/>
+<circle cx="1130" cy="70" r="210" fill="none" stroke="#b8ee92" stroke-opacity=".18"/>
+<circle cx="1130" cy="70" r="150" fill="none" stroke="#b8ee92" stroke-opacity=".25"/>
+<path d="M80 65H120" stroke="#b8ee92" stroke-width="5"/>
+<text x="80" y="113" fill="#b8ee92" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">DESIGN / DEVELOPMENT / SYSTEMS</text>
+<text x="75" y="228" fill="#f5f4e9" font-family="Arial,sans-serif" font-weight="700" font-size="100" letter-spacing="-5">Hello, I’m Hmingz.</text>
+<text x="80" y="285" fill="#c2cbc5" font-family="Arial,sans-serif" font-size="26">Practical systems. Thoughtful interfaces.</text>
+<text x="80" y="354" fill="#b8ee92" font-family="Arial,sans-serif" font-size="16">LARAVEL   /   REACT &amp; VUE   /   FLUTTER</text>
+</svg>
