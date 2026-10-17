@@ -51,6 +51,12 @@ Public websites and application projects across healthcare, commerce, hospitalit
 
 ## About my work
 
+### Professional experience and internship offer
+
+- **Independent Full Stack Developer:** serving clients independently and building Mizomil as an early-stage venture.
+- **Technical Staff, Health and Family Welfare Department, Mizoram:** earlier contractual technical support and accounts assistance; role ended in 2024.
+- **Unified Mentor Pvt. Ltd. - Fullstack Web Development Intern (offer):** offer dated 20 January 2026 for a proposed six-month placement from 20 January to 20 July 2026. This records the offer; participation and completion are not established by the letter.
+
 B.E. in Computer Science & Engineering, Bangalore University, 2021. Earlier government technical-support work ended in 2024; I now work independently with clients.
 
 Client and business source repositories stay private. This profile shares public website links and concise project summaries without exposing code, credentials, patient information, or business records.
